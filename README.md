@@ -1,2 +1,3 @@
 # SIMBT_01
-This respiratory is for simplbyte interns task.
+
+This respiratory is for symplibyte task
